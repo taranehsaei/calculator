@@ -9,9 +9,8 @@ function add($num1, $num2)
     for ($num2=$num3;$num1>888888888;$num2++){
        return $num4;
     }
-
-
-    echo "result()";
+//    echo "result is$num4";
+    return $num4;
 }
 print_r(add('123456', '123444'));
 
