@@ -15,7 +15,7 @@ function add($num1, $num2)
 //        $carry = floor(((int)($num1[$i]) - (int)($num2[$i])) / 10);
 //        $num2[$i] = $value;
 //    }
-//    return $num3;
+//    return $i;
 }
 print_r(add('123456', '123444'));
 
